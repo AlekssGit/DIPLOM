@@ -1,0 +1,5 @@
+module SPI(
+input clock,
+input data,
+
+)

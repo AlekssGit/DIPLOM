@@ -1,0 +1,85 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\admin\Desktop\Quartus\SPI\simulation\qsim
+vSPI
+Z1 IIb>2VX24gf]mNiHmQG7143
+Z2 Vn@A@^0UbKIz@k=Q9O>_aU0
+Z3 dC:\Users\admin\Desktop\Quartus\SPI\simulation\qsim
+Z4 w1575443448
+Z5 8SPI.vo
+Z6 FSPI.vo
+L0 31
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 !s90 -work|work|SPI.vo|
+Z9 o-work work -O0
+Z10 n@s@p@i
+!i10b 1
+Z11 !s100 Qc6FIE1eoYA>l>Ah;W[ka2
+!s85 0
+Z12 !s108 1575443448.795000
+Z13 !s107 SPI.vo|
+!s101 -O0
+vSPI_vlg_check_tst
+!i10b 1
+!s100 :<AIk4I`Q1[PefBef8E9a1
+IRB`ANe_^lhW@oJ;<Xze2M3
+VKF`9F6?bHV>c]Z5^IDEaO3
+R3
+Z14 w1575443447
+Z15 8SPI.vt
+Z16 FSPI.vt
+L0 61
+R7
+r1
+!s85 0
+31
+Z17 !s108 1575443448.873000
+Z18 !s107 SPI.vt|
+Z19 !s90 -work|work|SPI.vt|
+!s101 -O0
+R9
+Z20 n@s@p@i_vlg_check_tst
+vSPI_vlg_sample_tst
+!i10b 1
+!s100 _`4We?gMchQWX0SECe;5z1
+Ig=EDYAEVcVo:^95UK>J5D2
+V0kSDjQC21]=5=B`_g0^4d1
+R3
+R14
+R15
+R16
+L0 29
+R7
+r1
+!s85 0
+31
+R17
+R18
+R19
+!s101 -O0
+R9
+Z21 n@s@p@i_vlg_sample_tst
+vSPI_vlg_vec_tst
+!i10b 1
+!s100 AnHCMX1Mfilgc=@leU5_B3
+IRa=:zEV<8<2S[Ni[Of7>o2
+Z22 VS6`[VjIGG=S@hWgW54]Oj3
+R3
+R14
+R15
+R16
+L0 218
+R7
+r1
+!s85 0
+31
+R17
+R18
+R19
+!s101 -O0
+R9
+Z23 n@s@p@i_vlg_vec_tst
