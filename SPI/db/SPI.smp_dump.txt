@@ -1,0 +1,5 @@
+
+State Machine - |SPI|state
+Name state.s_work 
+state.s_idle 0 
+state.s_work 1 
