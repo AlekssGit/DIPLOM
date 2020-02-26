@@ -1,0 +1,9 @@
+Change Component Comment : Designator=XP1 Old Comment=Comment New Comment=pw 10-6-M-R 5V
+Added Pin To Net: NetName=+5 Pin=XP1-1
+Added Pin To Net: NetName=MISO Pin=XP1-2
+Added Pin To Net: NetName=MOSI Pin=XP1-3
+Added Pin To Net: NetName=CS Pin=XP1-4
+Added Pin To Net: NetName=CLK Pin=XP1-5
+Added Pin To Net: NetName=GND Pin=XP1-6
+Added Member To Class: ClassName=LED_SEMISEGMENT Member=Component XP1 pw 10-6-M-R 5V
+Added Room: Name=LED_SEMISEGMENT
