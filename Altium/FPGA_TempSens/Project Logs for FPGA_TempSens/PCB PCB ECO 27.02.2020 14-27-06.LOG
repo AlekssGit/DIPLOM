@@ -1,0 +1,11 @@
+Change Component Footprint: Designator=XP3 Old Footprint=PW 10-6-M - R New Footprint=PW 10-6-M
+Change Component Footprint: Designator=XP5 Old Footprint=PW 10-6-M - R New Footprint=PW 10-6-M
+Added Component: Designator=XP6(PW 10-6-M)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=+5 Pin=XP6-1
+Added Pin To Net: NetName=MISO Pin=XP6-2
+Added Pin To Net: NetName=MOSI/SO Pin=XP6-3
+Added Pin To Net: NetName=CS_3 Pin=XP6-4
+Added Pin To Net: NetName=SPI_CLK Pin=XP6-5
+Added Pin To Net: NetName=GND Pin=XP6-6
+Added Member To Class: ClassName=Connectors Member=Component XP6 pw 10-6-M-R 5V

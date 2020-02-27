@@ -1,0 +1,30 @@
+Added Component: Designator=XP2(PW 10-4 - M - R)
+Add component. Clean all parameters for all variants
+Added Component: Designator=XP3(PW 10-6-M)
+Add component. Clean all parameters for all variants
+Added Component: Designator=XP4(PW 10-4 - M - R)
+Add component. Clean all parameters for all variants
+Added Component: Designator=XP5(PW 10-6-M)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=VCC3V3 Pin=XP2-1
+Added Pin To Net: NetName=SDA Pin=XP2-2
+Added Pin To Net: NetName=GND Pin=XP2-4
+Added Pin To Net: NetName=VCC3V3 Pin=XP3-1
+Added Pin To Net: NetName=MISO Pin=XP3-2
+Added Pin To Net: NetName=MOSI/SO Pin=XP3-3
+Added Pin To Net: NetName=CS_1 Pin=XP3-4
+Added Pin To Net: NetName=SPI_CLK Pin=XP3-5
+Added Pin To Net: NetName=GND Pin=XP3-6
+Added Pin To Net: NetName=VCC3V3 Pin=XP4-1
+Added Pin To Net: NetName=SDA Pin=XP4-2
+Added Pin To Net: NetName=GND Pin=XP4-4
+Added Pin To Net: NetName=VCC3V3 Pin=XP5-1
+Added Pin To Net: NetName=MISO Pin=XP5-2
+Added Pin To Net: NetName=MOSI/SO Pin=XP5-3
+Added Pin To Net: NetName=CS_2 Pin=XP5-4
+Added Pin To Net: NetName=SPI_CLK Pin=XP5-5
+Added Pin To Net: NetName=GND Pin=XP5-6
+Added Member To Class: ClassName=Connectors Member=Component XP2 pw 10-4-M-R
+Added Member To Class: ClassName=Connectors Member=Component XP3 pw 10-6-M-R
+Added Member To Class: ClassName=Connectors Member=Component XP4 pw 10-4-M-R
+Added Member To Class: ClassName=Connectors Member=Component XP5 pw 10-6-M-R
